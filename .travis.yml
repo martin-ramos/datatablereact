@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "node"
+before_install:
+  - npm i -g npm
+deploy:
+  provider: heroku
+  app: arq-soft-grupo1-reactjs
+   # optional if it's the same as your repo name
+  api_key: 4a91bd54-ea92-4670-a6b0-55d13103afa3

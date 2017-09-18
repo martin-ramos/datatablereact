@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "tony",
+    "role": "community manager"
+  },
+  {
+    "id": 2,
+    "name": "sandy",
+    "role": "digital content producer"
+  },
+  {
+    "id": 3,
+    "name": "michael",
+    "role": "php community manager"
+  },
+  {
+    "id": 4,
+    "name": "martinramos",
+    "role": "pobre"
+  },
+  {
+    "id": 5,
+    "name": "sandracorrea",
+    "role": "pobre"
+  },
+  {
+    "id": 6,
+    "name": "Martin",
+    "role": "Mas Pobre"
+  },
+  {
+    "id": 7,
+    "name": "Leandro",
+    "role": "Jefe de jefes"
+  }
+]
